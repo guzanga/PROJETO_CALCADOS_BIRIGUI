@@ -1,0 +1,132 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Hina Mincho', serif;
+    font-size: medium;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr 2fr;
+    text-align: center;
+    background-color: #70A1CD;
+}
+#logo{
+    height: 77px ;
+    width: 77px;
+}
+button{
+    cursor: pointer;
+    margin: 23px;
+    width: 150px;
+    height: 25px;
+    border: none;
+    border-radius: 20px;
+    border: solid 1px;
+    background-color: #70A1CD;
+}
+
+.primeirasec{
+    border: solid 1px;
+    text-align: center;
+}
+
+#primeirasec{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+h4{
+    margin-top: 10px;
+}
+
+h5{
+    margin-top: 15px;
+}
+
+#img1{
+    height: 210px;
+    width: 350px;
+}
+
+#grid1{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+#divmaior{
+    margin: 20px;
+    background-color: #DFCFED;
+    border-radius: 30px;
+    border: none;
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    padding: 5px;
+
+}
+
+#imglogo2{
+    height: 125px;
+    width: 125px;
+    margin: 7px;
+}
+
+.maior{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: none;
+    border: 2px #70A1CD ;
+    text-align: center;
+}
+
+.media{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+}
+
+.parag{
+    margin: 10px;
+    background-color: #DFCFED;
+    border-radius: 40px;
+}
+
+.imgss{
+    height: 120px;
+    width: 120px;
+}
+
+.divimgs{
+    margin: 10px;
+}
+
+hr{
+    height: 2px;
+    background-color: #70A1CD;
+}
+
+#ultima{
+    height: 30px;
+    background-color: #70A1CD;
+    text-align: center;
+}
+
+#textf{
+    padding: 7px;
+}
+
+#pm{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+#ultimaimg{
+    height: 300px;
+    width: 350px;
+    margin: 10px;
+    border-radius: 40px;
+}
+
+#textt{
+    margin: 0px;
+}
